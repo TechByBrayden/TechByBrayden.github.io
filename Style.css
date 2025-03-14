@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    background: url('http://dash.ga.co/assets/jeff-bg.png');
+    background-size: black;
+    color: white;
+  }
+  img {
+    border: 5px solid #555;
+   }
+   article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  iframe {
+    border: 5px solid #555;
+  }
