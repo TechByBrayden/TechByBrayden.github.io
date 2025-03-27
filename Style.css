@@ -1,17 +1,25 @@
-header {
-    text-align: center;
-    background: url('http://dash.ga.co/assets/jeff-bg.png');
-    background-size: black;
-    color: white;
-  }
-  img {
-    border: 5px solid #555;
-   }
-   article {
-    max-width: 500px;
-    padding: 20px;
-    margin: 0 auto;
-  }
-  iframe {
-    border: 5px solid #555;
-  }
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>All about Dogs</title>
+
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="Style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Cherry+Cream+Soda&family=Lobster&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        </head>
+        <header>
+            <h2> Dogs Are Dynamite!</h2>
+            <img src="images/Puppys.jpg">       
+        </header>    
+                <article>A. Dogs are awesome because they are so loyal. Dogs can learn a lot of tricks as well. You can even win awards to become the best dog trainer. If you want a best friend for life, get yourself a dog.
+                    <img src="images/Pug.jpg">    
+                    Photo by <a href="https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"> Matthew Henry</a> on <a href="https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+                 <h2>Cool Video about Dogs</h2>
+                 <iframe width="500" height="500" src="https://www.youtube.com/embed/IZzeLnaygME" title="Best Dog Videos of the Decade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>                 <footer><a href="why.html">Why I like Dogs</a></footer>
+                </article>
+       
+   
+    
+</html>
